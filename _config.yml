@@ -36,7 +36,8 @@ plugins:
 #  - jekyll-feed
   - jekyll-include-cache
 
-
+include:
+  - _posts
 
 
 # Exclude from processing.
