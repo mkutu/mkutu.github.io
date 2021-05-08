@@ -20,7 +20,7 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Your Site Title
+title   : Matt Kutugata
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
 
@@ -214,7 +214,12 @@ defaults:
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
-
+  - header:
+    theme: light
+  #     article_header:
+  #       type: cover
+  #       # background_image: /assets/images/img1.jpg
+  #       image: /assets/images/img1.jpg
 
 ## => Plugins
 ##############################
