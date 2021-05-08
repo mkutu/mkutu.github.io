@@ -1,5 +1,12 @@
 ---
 layout: article
+mode: immersive
+header:
+    theme: dark
+article_header:
+  type: cover
+  image:
+    src: /assets/images/bb_gif3.gif
 titles:
   # @start locale config
   en      : &EN       About
@@ -25,6 +32,8 @@ titles:
   # @end locale config
 key: page-about
 ---
+
+![Alt Text](/assets/images/gif1.gif)
 
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 

@@ -21,7 +21,8 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : https://tianqi.name
 baseurl : /jekyll-TeXt-theme
 title   : TeXt Theme
-description: >
+description: 
+  >
   A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
 
 
